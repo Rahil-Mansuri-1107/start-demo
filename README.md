@@ -1,2 +1,2 @@
 # start-demo
-Demo Repo for Git &amp; Github 
+Demo Repo for Git &amp; Github.
